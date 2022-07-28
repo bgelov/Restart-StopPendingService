@@ -1,4 +1,6 @@
 ﻿#Script for restart services in StopPending state with PSExec
+ #Oleg Belov
+ #28.07.2022
 
 #Directory with psexec64.exe
 $PSexecDir = 'C:\PSExec\'
